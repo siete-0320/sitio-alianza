@@ -1,5 +1,8 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <link rel="stylesheet" href="estilo.css">
+</head>
 <body>
     <h1>PROBANDO</h1>
     <p>123</p>
